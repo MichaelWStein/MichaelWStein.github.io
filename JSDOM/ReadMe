@@ -1,0 +1,8 @@
+This program filters the UFO-sightings by Date, City, State, Country, and Shape. 
+The filter data can be entered in the field on the left. If the field is empty it will be ignored.
+A refresh will display the complete dataset and eliminate all data-filtration entries. 
+
+There is currently no entry control for the filter, so if, for example, US is entered
+for Country (instead of us) there will be no display.
+
+If there are multiple filters, they will be connected by a logical 'and'.
