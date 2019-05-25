@@ -8,7 +8,7 @@ var chartHealthAr = [];
 
 // Importing the dataset
   
-d3.csv("assets/data/data.csv").then(function(returns) {
+d3.csv("assets/Data/data.csv").then(function(returns) {
   var healthData = Object.entries(returns); 
   console.log("Data =", healthData);
 
