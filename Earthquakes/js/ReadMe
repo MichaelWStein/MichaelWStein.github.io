@@ -1,0 +1,2 @@
+Contains the javascript that pulls in the data and creates the maps. Earthquake data (>=4.5 in the last 30 days) from USGS, 
+mapbox and leaflet for the maps. 
